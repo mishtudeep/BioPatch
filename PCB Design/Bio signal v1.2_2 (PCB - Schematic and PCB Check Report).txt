@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, July 06, 2020
+Project Path:       C:\Users\Subhro Mitra\Desktop\Shreedeep MeFy_revised\PCB Design\Bio signal v1.2.prj
+Design Path:        C:\Users\Subhro Mitra\Desktop\Shreedeep MeFy_revised\PCB Design\Bio signal v1.2_2.pcb
+Design Title:       
+Created:            7/4/2020 8:40:36 AM
+Last Saved:         7/6/2020 1:59:30 AM
+Editing Time:       1682 min
+Units:              mm (precision 4)
+
+
+Checking integrity of Schematic and Pcb designs in project "Bio signal v1.2"
+============================================================================
+
+
+End Of Report.

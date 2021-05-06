@@ -1,0 +1,201 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, July 04, 2020
+Project Path:       C:\Users\Subhro Mitra\Desktop\Shreedeep MeFy_revised\PCB Design\Bio signal v1.2.prj
+Design Path:        C:\Users\Subhro Mitra\Desktop\Shreedeep MeFy_revised\PCB Design\Bio signal v1.2.pcb
+Design Title:       
+Created:            7/3/2020 8:12:45 AM
+Last Saved:         7/4/2020 7:51:49 AM
+Editing Time:       634 min
+Units:              mm (precision 3)
+
+Disconnected pin "U3.1" from net "SCL_1".
+Disconnected pin "U3.3" from net "ALERT".
+Disconnected pin "U3.6" from net "SDA_1".
+Disconnected pin "R25.1" from net "CLK SEL".
+Disconnected pin "R25.2" from net "3.3V".
+Disconnected pin "JP6.1" from net "SCL_1".
+Disconnected pin "JP6.2" from net "SDA_1".
+Disconnected pin "IC15.1" from net "GND".
+Disconnected pin "IC15.2" from net "GND".
+Disconnected pin "IC15.3" from net "GND".
+Disconnected pin "IC15.4" from net "INT_2".
+Disconnected pin "IC15.5" from net "SDA_1".
+Disconnected pin "IC15.6" from net "SCL_1".
+Disconnected pin "IC15.7" from net "INT_1".
+Disconnected pin "IC15.8" from net "SDA_1".
+Disconnected pin "IC15.9" from net "SCL_1".
+Disconnected pin "IC15.10" from net "GND".
+Disconnected pin "IC15.11" from net "ALERT".
+Disconnected pin "IC15.12" from net "SDA_2".
+Disconnected pin "IC15.13" from net "SCL_2".
+Disconnected pin "IC15.18" from net "SCL".
+Disconnected pin "IC15.19" from net "SDA".
+Disconnected pin "IC15.20" from net "3.3V".
+Disconnected pin "IC16.4" from net "INT_1".
+Disconnected pin "IC16.9" from net "INT_2".
+Disconnected pin "IC16.13" from net "SCL_2".
+Disconnected pin "IC16.14" from net "SDA_2".
+Disconnected pin "JP11.1" from net "SCL_2".
+Disconnected pin "JP11.2" from net "SDA_2".
+Disconnected pin "R42.2" from net "ALERT".
+Disconnected pin "ANT1.20" from net "A0".
+Disconnected pin "ANT1.21" from net "A1".
+Disconnected pin "ANT1.24" from net "D12".
+
+Deleted component reference "R25".
+Deleted component reference "IC15".
+
+Deleted net "ALERT".
+Deleted net "SCL_1".
+Deleted net "SDA_1".
+Deleted net "SDA_2".
+Deleted net "SCL_2".
+Deleted net "INT_1".
+Deleted net "INT_2".
+Deleted net "D12".
+Deleted net "A1".
+
+Added net "ALERT_D12".
+Added net "INT_1_A0".
+Added net "INT_2_A1".
+
+Error: Unable to add component reference "T26" of component "AVCC", package "USER" because Cannot find package "USER" in component "AVCC" in library "H:\Design Spark PCB\install DSPCB\Library\User\User.cml"..
+Error: Unable to add component reference "L21" of component "Label_1", package "USER" because No PCB information for Component "Label_1"..
+Error: Unable to add component reference "L22" of component "Label_1", package "USER" because No PCB information for Component "Label_1"..
+Error: Unable to add component reference "T90" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T91" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T92" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T93" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T94" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T95" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T96" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T97" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T98" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T99" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T100" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T101" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T102" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T103" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T104" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T105" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T107" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T109" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T110" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T111" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T112" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T113" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T114" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T115" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T116" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T117" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T118" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T122" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T123" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T124" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T125" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T126" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T127" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T128" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T129" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T130" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T133" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T134" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T141" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T142" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T143" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T144" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T145" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T149" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T150" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T151" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "TP1" of component "TPTP10R", package "TP10R" because No PCB information for Component "TPTP10R"..
+Error: Unable to add component reference "TP2" of component "TPTP10R", package "TP10R" because No PCB information for Component "TPTP10R"..
+Error: Unable to add component reference "T8" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T9" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T10" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T11" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T12" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T13" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T14" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T15" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T16" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T17" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T18" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T19" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T20" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T23" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T31" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T36" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T37" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T38" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T39" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T40" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T41" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T42" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T43" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T44" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T45" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T46" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T47" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T48" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T49" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T50" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T51" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T52" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T53" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T54" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T56" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T57" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T58" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T59" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T60" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T61" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T62" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T64" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T65" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T63" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T66" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T67" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T69" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T78" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T32" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T33" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T34" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T35" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T82" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T83" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T84" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T85" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T86" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T87" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T88" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T89" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T120" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T121" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T152" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T153" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T154" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+Error: Unable to add component reference "T155" of component "Pin_Terminal", package "USER" because No PCB information for Component "Pin_Terminal"..
+
+Connected pin "U3.1" to net "SCL".
+Connected pin "U3.3" to net "ALERT_D12".
+Connected pin "U3.6" to net "SDA".
+Connected pin "JP6.1" to net "SCL".
+Connected pin "JP6.2" to net "SDA".
+Connected pin "IC16.4" to net "INT_1_A0".
+Connected pin "IC16.9" to net "INT_2_A1".
+Connected pin "IC16.13" to net "SCL".
+Connected pin "IC16.14" to net "SDA".
+Connected pin "JP11.1" to net "SCL".
+Connected pin "JP11.2" to net "SDA".
+Connected pin "R36.1" to net "CLK SEL".
+Connected pin "R36.2" to net "3.3V".
+Connected pin "R42.2" to net "ALERT_D12".
+Connected pin "ANT1.20" to net "INT_1_A0".
+Connected pin "ANT1.21" to net "INT_2_A1".
+Connected pin "ANT1.24" to net "ALERT_D12".
+
+
+End Of Report.

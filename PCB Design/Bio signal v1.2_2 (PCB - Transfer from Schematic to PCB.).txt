@@ -1,0 +1,134 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Saturday, July 04, 2020
+Design Path:        C:\Users\Subhro Mitra\Desktop\Shreedeep MeFy_revised\PCB Design\Bio signal v1.2_2.pcb
+Design Title:       
+Created:            7/4/2020 8:40:36 AM
+Last Saved:         7/4/2020 8:41:56 AM
+Editing Time:       1 min
+Units:              mm (precision 4)
+
+Could not load component "AVCC" package "USER" into target design.
+Could not add "T26" component "AVCC" package "USER" to target design.
+Could not load component "Label_1" package "USER" into target design.
+Could not add "L21" component "Label_1" package "USER" to target design.
+Could not add "L22" component "Label_1" package "USER" to target design.
+Could not load component "Pin_Terminal" package "USER" into target design.
+Could not add "T90" component "Pin_Terminal" package "USER" to target design.
+Could not add "T91" component "Pin_Terminal" package "USER" to target design.
+Could not add "T92" component "Pin_Terminal" package "USER" to target design.
+Could not add "T93" component "Pin_Terminal" package "USER" to target design.
+Could not add "T94" component "Pin_Terminal" package "USER" to target design.
+Could not add "T95" component "Pin_Terminal" package "USER" to target design.
+Could not add "T96" component "Pin_Terminal" package "USER" to target design.
+Could not add "T97" component "Pin_Terminal" package "USER" to target design.
+Could not add "T98" component "Pin_Terminal" package "USER" to target design.
+Could not add "T99" component "Pin_Terminal" package "USER" to target design.
+Could not add "T100" component "Pin_Terminal" package "USER" to target design.
+Could not add "T101" component "Pin_Terminal" package "USER" to target design.
+Could not add "T102" component "Pin_Terminal" package "USER" to target design.
+Could not add "T103" component "Pin_Terminal" package "USER" to target design.
+Could not add "T104" component "Pin_Terminal" package "USER" to target design.
+Could not add "T105" component "Pin_Terminal" package "USER" to target design.
+Could not add "T107" component "Pin_Terminal" package "USER" to target design.
+Could not add "T109" component "Pin_Terminal" package "USER" to target design.
+Could not add "T110" component "Pin_Terminal" package "USER" to target design.
+Could not add "T111" component "Pin_Terminal" package "USER" to target design.
+Could not add "T112" component "Pin_Terminal" package "USER" to target design.
+Could not add "T113" component "Pin_Terminal" package "USER" to target design.
+Could not add "T114" component "Pin_Terminal" package "USER" to target design.
+Could not add "T115" component "Pin_Terminal" package "USER" to target design.
+Could not add "T116" component "Pin_Terminal" package "USER" to target design.
+Could not add "T117" component "Pin_Terminal" package "USER" to target design.
+Could not add "T118" component "Pin_Terminal" package "USER" to target design.
+Could not add "T122" component "Pin_Terminal" package "USER" to target design.
+Could not add "T123" component "Pin_Terminal" package "USER" to target design.
+Could not add "T124" component "Pin_Terminal" package "USER" to target design.
+Could not add "T125" component "Pin_Terminal" package "USER" to target design.
+Could not add "T126" component "Pin_Terminal" package "USER" to target design.
+Could not add "T127" component "Pin_Terminal" package "USER" to target design.
+Could not add "T128" component "Pin_Terminal" package "USER" to target design.
+Could not add "T129" component "Pin_Terminal" package "USER" to target design.
+Could not add "T130" component "Pin_Terminal" package "USER" to target design.
+Could not add "T133" component "Pin_Terminal" package "USER" to target design.
+Could not add "T134" component "Pin_Terminal" package "USER" to target design.
+Could not add "T141" component "Pin_Terminal" package "USER" to target design.
+Could not add "T142" component "Pin_Terminal" package "USER" to target design.
+Could not add "T143" component "Pin_Terminal" package "USER" to target design.
+Could not add "T144" component "Pin_Terminal" package "USER" to target design.
+Could not add "T145" component "Pin_Terminal" package "USER" to target design.
+Could not add "T149" component "Pin_Terminal" package "USER" to target design.
+Could not add "T150" component "Pin_Terminal" package "USER" to target design.
+Could not add "T151" component "Pin_Terminal" package "USER" to target design.
+Could not load component "TPTP10R" package "TP10R" into target design.
+Could not add "TP1" component "TPTP10R" package "TP10R" to target design.
+Could not add "TP2" component "TPTP10R" package "TP10R" to target design.
+Could not add "T8" component "Pin_Terminal" package "USER" to target design.
+Could not add "T9" component "Pin_Terminal" package "USER" to target design.
+Could not add "T10" component "Pin_Terminal" package "USER" to target design.
+Could not add "T11" component "Pin_Terminal" package "USER" to target design.
+Could not add "T12" component "Pin_Terminal" package "USER" to target design.
+Could not add "T13" component "Pin_Terminal" package "USER" to target design.
+Could not add "T14" component "Pin_Terminal" package "USER" to target design.
+Could not add "T15" component "Pin_Terminal" package "USER" to target design.
+Could not add "T16" component "Pin_Terminal" package "USER" to target design.
+Could not add "T17" component "Pin_Terminal" package "USER" to target design.
+Could not add "T18" component "Pin_Terminal" package "USER" to target design.
+Could not add "T19" component "Pin_Terminal" package "USER" to target design.
+Could not add "T20" component "Pin_Terminal" package "USER" to target design.
+Could not add "T23" component "Pin_Terminal" package "USER" to target design.
+Could not add "T31" component "Pin_Terminal" package "USER" to target design.
+Could not add "T36" component "Pin_Terminal" package "USER" to target design.
+Could not add "T37" component "Pin_Terminal" package "USER" to target design.
+Could not add "T38" component "Pin_Terminal" package "USER" to target design.
+Could not add "T39" component "Pin_Terminal" package "USER" to target design.
+Could not add "T40" component "Pin_Terminal" package "USER" to target design.
+Could not add "T41" component "Pin_Terminal" package "USER" to target design.
+Could not add "T42" component "Pin_Terminal" package "USER" to target design.
+Could not add "T43" component "Pin_Terminal" package "USER" to target design.
+Could not add "T44" component "Pin_Terminal" package "USER" to target design.
+Could not add "T45" component "Pin_Terminal" package "USER" to target design.
+Could not add "T46" component "Pin_Terminal" package "USER" to target design.
+Could not add "T47" component "Pin_Terminal" package "USER" to target design.
+Could not add "T48" component "Pin_Terminal" package "USER" to target design.
+Could not add "T49" component "Pin_Terminal" package "USER" to target design.
+Could not add "T50" component "Pin_Terminal" package "USER" to target design.
+Could not add "T51" component "Pin_Terminal" package "USER" to target design.
+Could not add "T52" component "Pin_Terminal" package "USER" to target design.
+Could not add "T53" component "Pin_Terminal" package "USER" to target design.
+Could not add "T54" component "Pin_Terminal" package "USER" to target design.
+Could not add "T56" component "Pin_Terminal" package "USER" to target design.
+Could not add "T57" component "Pin_Terminal" package "USER" to target design.
+Could not add "T58" component "Pin_Terminal" package "USER" to target design.
+Could not add "T59" component "Pin_Terminal" package "USER" to target design.
+Could not add "T60" component "Pin_Terminal" package "USER" to target design.
+Could not add "T61" component "Pin_Terminal" package "USER" to target design.
+Could not add "T62" component "Pin_Terminal" package "USER" to target design.
+Could not add "T64" component "Pin_Terminal" package "USER" to target design.
+Could not add "T65" component "Pin_Terminal" package "USER" to target design.
+Could not add "T63" component "Pin_Terminal" package "USER" to target design.
+Could not add "T66" component "Pin_Terminal" package "USER" to target design.
+Could not add "T67" component "Pin_Terminal" package "USER" to target design.
+Could not add "T69" component "Pin_Terminal" package "USER" to target design.
+Could not add "T78" component "Pin_Terminal" package "USER" to target design.
+Could not add "T32" component "Pin_Terminal" package "USER" to target design.
+Could not add "T33" component "Pin_Terminal" package "USER" to target design.
+Could not add "T34" component "Pin_Terminal" package "USER" to target design.
+Could not add "T35" component "Pin_Terminal" package "USER" to target design.
+Could not add "T82" component "Pin_Terminal" package "USER" to target design.
+Could not add "T83" component "Pin_Terminal" package "USER" to target design.
+Could not add "T84" component "Pin_Terminal" package "USER" to target design.
+Could not add "T85" component "Pin_Terminal" package "USER" to target design.
+Could not add "T86" component "Pin_Terminal" package "USER" to target design.
+Could not add "T87" component "Pin_Terminal" package "USER" to target design.
+Could not add "T88" component "Pin_Terminal" package "USER" to target design.
+Could not add "T89" component "Pin_Terminal" package "USER" to target design.
+Could not add "T120" component "Pin_Terminal" package "USER" to target design.
+Could not add "T121" component "Pin_Terminal" package "USER" to target design.
+Could not add "T152" component "Pin_Terminal" package "USER" to target design.
+Could not add "T153" component "Pin_Terminal" package "USER" to target design.
+Could not add "T154" component "Pin_Terminal" package "USER" to target design.
+Could not add "T155" component "Pin_Terminal" package "USER" to target design.
+
+End Of Report.
